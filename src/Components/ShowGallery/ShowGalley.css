@@ -1,0 +1,11 @@
+
+.container{
+    margin : 5% 10%;
+}
+
+img {
+    margin : 1%;
+    width : 20%;
+    height : 100px;
+    object-fit: fill;
+}
